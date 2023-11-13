@@ -1,0 +1,6 @@
+1. logUpTo(n) - Time Complexity: O(n)
+2. logAtLeast10(n) - Time Complexity: O(n)
+3. logAtMost10(n) - Time Complexity: O(1)
+4. onlyElementsAtEvenIndex(array) - Time Complexity: O(n)
+5. subtotals(array) - Time Complexity: O(n^2)
+6. vowelCount(str) - Time Complexity: O(n)
